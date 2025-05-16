@@ -1,0 +1,12 @@
+body {
+    background-image: url(../image/1635753.webp);
+    background-size: 500px ;
+    background-repeat: none;
+}
+header{
+    background-color: aqua;
+}
+.age {
+    background-color: green;
+    padding: 35px;
+}
